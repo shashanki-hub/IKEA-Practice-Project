@@ -1,4 +1,3 @@
-Analyzed IKEA sales and customer data using Excel, SQL, and Power BI to practice data cleaning, KPI tracking, and interactive dashboard development. Explored revenue trends, customer segmentation, and churn patterns to derive actionable business insights.
 # 🛒 IKEA Sales Data Analysis
 
 ## 📌 Project Overview
